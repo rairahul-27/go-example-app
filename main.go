@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("hello world from webhooks!")
+	fmt.Println("hello world from web!")
 }
