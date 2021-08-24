@@ -7,7 +7,7 @@ import (
 func main() {
 
 
-	fmt.Println("hello world from Openshift!")
+	fmt.Println("hello world from Webhooks!")
 
 
 }
