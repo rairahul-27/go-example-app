@@ -7,7 +7,7 @@ import (
 func main() {
 
 
-	fmt.Println("hello  hooks!")
+	fmt.Println("hello  hooks. Hi!")
 
 
 }
